@@ -1,0 +1,140 @@
+#third{
+    width: 100%;
+    height: 100vh;
+    background:white;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#sec_first{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 32%;
+    /* border: 1px solid black; */
+}
+#sec_left,#sec_right{
+    width: 47%;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    position: relative;
+    border-radius: 10px;
+    /* background: red; */
+}
+
+
+#absfirst{
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-evenly; */
+    
+    margin-left: 5%;
+    /* background: rgb(250, 182, 182); */
+    height: 75%;  
+    /* z-index: 1; */
+    position: absolute;
+}
+
+#section_sec{
+    width: 90%;
+    margin-top: 3%;
+    height: 43%;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    /* background: black; */
+    border-radius: 0px;
+    /* border: 1px solid rgba(158, 90, 90, 0.3); */
+}
+#upperslide{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#upslidebtn{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    font-size: 1.2rem;
+    padding: 1px;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    border: 1px solid rgb(26, 25, 25,.5);
+    border-radius: 50%;
+}
+#insisection_sec{
+    width: 100%;
+
+    height: 86%;
+    max-height: 86%;
+    display: flex;
+
+}
+#secsec_same{
+    width: 545px;
+    min-width: 545px;
+    /* border: 1px solid wheat; */
+    display: flex;
+    justify-content: start;
+    /* background: black; */
+    align-items: center;
+    height: 100%;
+    /* border: 1px solid black; */
+    
+}
+
+#topsec_n{
+    width: 90%;
+    margin-top: -4%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 30%;
+    /* border: 1px solid black; */
+    border-bottom: none;
+}
+#user_1{
+    width: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 50%;
+    height: 80%;
+}
+#names_{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* align-items: center; */
+    height: 60%;
+    margin-left: 3%;
+    margin-top: -2%;
+    /* background: rgb(185, 181, 181,.5); */
+}
+#botsec_n{
+    margin-top: 4%;
+    width: 90%;
+    /* padding: 5px; */
+    height: 42%;
+    word-spacing: 2px;
+    color: #666666;
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    font-weight: 400;
+    overflow: hidden;
+    /* border: 1px solid black; */
+}

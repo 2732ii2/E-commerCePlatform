@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h1 style="color:'red' ">It was in continuation </h1>
+
+## Screenshots
+
+<img width="1436" alt="Im_4" src="https://github.com/2732ii2/E-commerCePlatform/assets/83974207/5226ff3b-83fd-4d1f-8c83-35bf5acf5061">
+
 ## Available Scripts
 
 In the project directory, you can run:
